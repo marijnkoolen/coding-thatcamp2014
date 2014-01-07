@@ -1,4 +1,4 @@
-## Coding the Humanities
+## Coding the Humanities at THATCamp 2014
 
 Many scholars in the humanities and in other disciplines are skeptical about programming. Not only does it seem difficult to learn, it often isn't clear how programming could be relevant to a scholars daily practice. 
 
