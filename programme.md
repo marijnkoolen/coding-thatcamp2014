@@ -1,4 +1,7 @@
 title: Coding the humanities
+author: 
+    name: Jan Hein Hoogstad & Marijn Koolen
+	url: http://yeehaa123.github.io/coding-the-humanities-public/
 output: programme.html
 
 --
@@ -42,6 +45,18 @@ output: programme.html
   + data from API comes in the form of a structured "document" (JSON)
 + example sites:
   + KB kranten, historici.nl, Europeana, Open Library
+
+--
+
+### HTML as DOM Tree
+
+![alt text](http://devfiles.myopera.com/articles/618/DOMTree.gif)
+
+--
+
+### Example Document
+
+[Vincent van Gogh - The Letters](http://vangoghletters.org/vg/letters/let581/letter.html)
 
 --
 
